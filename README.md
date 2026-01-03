@@ -38,4 +38,4 @@ python game.py
 
 ## License
 
-This project is licensed under the Apache License. For more information, see the [LICENSE](LICENSE) file.
+This project is licensed. For more information, see the [LICENSE](LICENSE) file.
