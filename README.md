@@ -23,7 +23,7 @@ Cosmic Chronicles is a terminal game that offers players the opportunity to expl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/aertsimon90/CosmicChronicles.git
+https://github.com/sinha-19/Cosmic-Chronicles.git
 ```
 
 2. Run the game:
