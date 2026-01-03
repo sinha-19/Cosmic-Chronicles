@@ -181,7 +181,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## 🎮 Credits
 
-**Developer**: sinha-19 (Simon Scap / aertsimon90)
+**Developer**: sinha-19
 
 Special thanks to all players who embark on this cosmic journey!
 
